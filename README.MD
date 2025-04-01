@@ -1,0 +1,1 @@
+## This project is for docker image cration of Flask application and buolding a CI/CD Pipeline
